@@ -7,3 +7,11 @@ The Japanese Grand Prix never fails to bring us some excitement and some moments
 This visualisation below shows the analysis between Verstappen and Leclerc's qualifying lap.
 
 ![LECvsVERsuzuka](https://user-images.githubusercontent.com/93969104/194696724-e54cdbeb-1302-4844-b7b0-8ac130f6fa0a.png)
+
+**Max Verstappen Is the 2022 World Champion**
+
+What a race weekend it is for both Max Verstappen and Red Bull to win the championship on the home soil of their engine manufacturer, Honda. That rolling start was so insanely baffling. In just 28 laps, Max Verstappen was able to pull a 27 second gap on his nearest competitor. That was an amazing drive by him. The title was secured when Leclerc cut off the last chicane of the track and pushed Perez wide, which cost him a 5 second penalty. With the 5 seconds applied, Leclerc was demoted to the third spot on the podium, which was what Verstappen needed to secure the world championship this weekend.
+
+Here is the visualization showing the race pace of the Top 6 drivers.
+
+![racepace](https://user-images.githubusercontent.com/93969104/194749108-bcd3ab38-a1be-477f-b027-e17996a0174e.png)
